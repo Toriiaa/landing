@@ -1,0 +1,56 @@
+.header-container {
+  background-color: white;
+}
+.logo {
+  color: black;
+}
+
+.background1 {
+  background-image: url(../images/white-smartphone-1851415.jpg);
+  height: 500px;
+  object-fit: contain;
+}
+*img {
+  width: 100%;
+}
+button {
+  border-radius: 12px;
+
+  margin: 5px;
+}
+a:hover {
+  text-decoration: none;
+}
+*section {
+  /* margin: 20px; */
+  /* padding: 20px; */
+}
+.background3 {
+  background-color: rgba(108, 155, 226, 0.733);
+  color: white;
+  text-align: center;
+}
+.section3 {
+  background-color: rgb(224, 214, 214);
+}
+.background4 {
+  background-image: url(../images/lauren-mancke-qc3sE5lGLbA-unsplash.jpg);
+  height: 500px;
+  object-fit: inherit;
+}
+.button3 {
+  border-radius: 12px;
+  border: 3px solid rgba(108, 155, 226, 0.733);
+  display: inline-block;
+  padding: 5px;
+  background-color: rgba(108, 155, 226, 0.733);
+}
+i {
+  font-size: 30px;
+  margin: 30px;
+}
+.head-span i {
+  margin: 0;
+  font-size: 20px;
+  color: black;
+}
