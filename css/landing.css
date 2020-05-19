@@ -21,10 +21,7 @@ button {
 a:hover {
   text-decoration: none;
 }
-*section {
-  /* margin: 20px; */
-  /* padding: 20px; */
-}
+
 .background3 {
   background-color: rgba(108, 155, 226, 0.733);
   color: white;
@@ -53,4 +50,69 @@ i {
   margin: 0;
   font-size: 20px;
   color: black;
+}
+span i {
+  color: rgba(108, 155, 226, 0.733);
+}
+/* section6 */
+.buy1 {
+  border: 3px solid rgba(108, 155, 226, 0.733);
+  border-radius: 12px;
+  background-color: rgba(108, 155, 226, 0.733);
+  color: white;
+  display: inline-block;
+  padding: 5px;
+}
+.box1 {
+  margin-top: 30px;
+  background-color: white;
+  padding: 30px;
+  margin: 15px;
+}
+.section6 {
+  background-color: whitesmoke;
+}
+.box2 {
+  background-color: white;
+  /* flex-basis: 30%; */
+  justify-self: center;
+  margin: auto;
+}
+.section7 {
+  background-color: rgba(108, 155, 226, 0.733);
+}
+
+.flex-material {
+  display: flex;
+  /* flex-basis: 33%; */
+  /* justify-content: space-evenly; */
+  margin: auto;
+  justify-items: center;
+  justify-self: center;
+}
+/* SECTION8 */
+.section8 h4 {
+  color: rgba(108, 155, 226, 0.733);
+}
+/* SECTION9 */
+.form1 {
+  margin: 20px;
+}
+input {
+  border: none;
+}
+
+.section9 button {
+  background-color: rgba(108, 155, 226, 0.733);
+  color: white;
+  border: none;
+}
+
+form {
+  background-color: whitesmoke;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+textarea {
+  border: none;
 }
